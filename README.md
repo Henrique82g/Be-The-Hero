@@ -1,6 +1,7 @@
 # Be-The-Hero
 
-![Alt Text](https://user-images.githubusercontent.com/62043171/78032791-ed511480-733b-11ea-83ce-ba061edeec89.png)
+![logo3x](https://user-images.githubusercontent.com/62043171/78095946-bbc56100-73ae-11ea-9d05-2de546dc84de.png)
+
 
 
 ## Projeto criado a partir da Semana OminiStack-11.
