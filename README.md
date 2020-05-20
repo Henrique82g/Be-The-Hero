@@ -4,5 +4,7 @@
 
 > Semana OminiStack 11
 
->> Tecnologias utilizadas
+> Tecnologias utilizadas
+
+1. [NodejS](https://nodejs.org/en/).
 
