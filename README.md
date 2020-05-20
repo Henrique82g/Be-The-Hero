@@ -1,6 +1,6 @@
 ### Be-The-Hero
 
-<img alt="Image" width="200" height="200" style="display: flex; margin: 0 auto" src="https://user-images.githubusercontent.com/62043171/78095946-bbc56100-73ae-11ea-9d05-2de546dc84de.png" />
+<img alt="Image" width="400" height="200" style="display: flex; margin: 0 auto" src="https://user-images.githubusercontent.com/62043171/78095946-bbc56100-73ae-11ea-9d05-2de546dc84de.png" />
 
 
 
