@@ -1,8 +1,6 @@
 <h1 align="center">
   <img src=/.github/logo.svg alt="Be The Hero">
-
   <br />
-  BeTheHero
 </h1>
 
 <p align="center">
