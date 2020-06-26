@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 
 O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
-## :use: Como usar
+## :use: ℹ Como usar
 
 Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/en/) ou superior + [Yarn v1.13](https://yarnpkg.com/) ou superior instalado no seu computador. Na sua linha de comando:
 
