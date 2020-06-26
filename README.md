@@ -52,7 +52,7 @@ $ yarn install
 # Feito isso rode o comando abaixo para rodar o frontend
 # yarn start
 
-# Pronto agora voçê pode acessar a aplicação nesse http://localhost:3000
+# Pronto agora voçê pode acessar a aplicação nesse endereço http://localhost:3000
 ```
 
 
