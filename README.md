@@ -6,13 +6,13 @@
 </h1>
 
 <p align="center">
-  <a href="#tecs-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#use-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
-## :tecs: 🚀 Tecnologias 
+## 🚀 Tecnologias 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias
 
@@ -21,11 +21,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 - [Express](https://expressjs.com/)
 - [Axios](https://www.npmjs.com/package/axios)
 
-## :project: 💻 Projeto
+## 💻 Projeto
 
 O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
-## :use: ℹ Como usar
+## 🤔 Como usar
 
 Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/en/) ou superior + [Yarn v1.13](https://yarnpkg.com/) ou superior instalado no seu computador. Na sua linha de comando:
 
