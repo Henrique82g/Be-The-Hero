@@ -18,7 +18,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 - [React](https://reactjs.org/)
 - [Node](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
-- [Axios](https://www.npmjs.com/package/axios)
 
 ## 💻 Projeto
 
