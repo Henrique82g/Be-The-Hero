@@ -63,4 +63,4 @@ $ yarn install
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ---
-Feito com ❤ by Henrique
+<p align="center">Feito com ❤ by Henrique</p>
